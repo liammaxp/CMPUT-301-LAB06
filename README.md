@@ -1,4 +1,4 @@
 # CMPUT-301-LAB06
-CCID:boxin3
+	CCID:boxin3
 
 	Student ID:1850047
